@@ -10,7 +10,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://github.com/chidiokoroafor/order-summary-component-main)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-with-html-and-css-YziYQLKg4F)
 - Live Site URL: [Add live site URL here](https://order-summary-component-main-cyan-ten.vercel.app/)
 
 ## My process
